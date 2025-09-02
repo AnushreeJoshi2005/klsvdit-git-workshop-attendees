@@ -1,4 +1,4 @@
-# Introduction
+# firstname lastname (change this before pushing)
 
 Hi, I’m ...
 
